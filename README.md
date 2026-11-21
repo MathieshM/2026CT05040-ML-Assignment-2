@@ -78,6 +78,6 @@ Open `2026CT05040_ML_Assignment_2.ipynb` in Jupyter or VS Code to review the imp
 
 ## BITS Virtual Lab screenshot
 
-The supplied screenshot is included below, with the browser URL area redacted to avoid publishing the VM session token. It shows the BITS Virtual Lab desktop, but not the assignment code or its execution output, so it does not satisfy the execution screenshot requirement. Replace it with a screenshot showing the notebook or script running before final submission.
+The supplied screenshot is included below. It shows the assignment notebook open in the BITS Virtual Lab, but no execution output is visible, so it does not satisfy the execution screenshot requirement. Replace it with a screenshot showing the notebook or script running and its output before final submission.
 
 ![BITS Virtual Lab desktop](BITS_Virtual_Lab_Screenshot.png)
