@@ -23,7 +23,7 @@ After duplicate removal, 24,698 records (75.91%) have income `<=50K`, while 7,83
 
 ## Github Repository Link
 
-**Repository URL:** _Add the GitHub URL after configuring the repository remote and publishing it._
+**Repository URL:** https://github.com/MathieshM/2026CT05040-ML-Assignment-2
 
 ## Data preprocessing
 
