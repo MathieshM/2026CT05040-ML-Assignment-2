@@ -76,6 +76,8 @@ The script downloads the dataset, performs preprocessing and the stratified spli
 
 Open `2026CT05040_ML_Assignment_2.ipynb` in Jupyter or VS Code to review the implementation interactively.
 
-## Required BITS Virtual Lab screenshot
+## BITS Virtual Lab screenshot
 
-The final PDF must include a screenshot captured from the BITS Virtual Lab during execution. Add the genuine screenshot before submission; it is not included in this repository yet.
+The supplied screenshot is included below, with the browser URL area redacted to avoid publishing the VM session token. It shows the BITS Virtual Lab desktop, but not the assignment code or its execution output, so it does not satisfy the execution screenshot requirement. Replace it with a screenshot showing the notebook or script running before final submission.
+
+![BITS Virtual Lab desktop](BITS_Virtual_Lab_Screenshot.png)
